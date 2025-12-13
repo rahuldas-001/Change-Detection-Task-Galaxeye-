@@ -28,13 +28,13 @@ The system performs automated data ingestion, pre-processing (speckle filtering)
 ## 📂 Project Structure
 ```bash
 ├── data/
-│   ├── input/               # Raw Sentinel-1 (VV/VH) and Sentinel-2 (.tif)
-│   ├── output/              # Generated flood masks and final maps
+│   ├── sentinel 1 and sentinel 2/               # Raw Sentinel-1 (VV/VH) and Sentinel-2 (.tif)
+│   ├── processed /                              # Processed tiffs
 ├── src/
-│   ├── download_data.py     # Script to fetch data from Copernicus/Planetary Computer
-│   ├── preprocess.py        # Speckle filtering and reprojection logic
-│   ├── analysis.py          # Main change detection algorithm (Otsu/NDWI)
-│   └── generate_report.py   # PDF generation script
+│   ├── download_data.ipynb     # Script to fetch data from Copernicus/ASF
+│   ├── preprocess.ipynb        # Preprocessing logic
+│   ├── analysis.py              # Main change detection algorithm (Otsu/NDWI)
+│   
 ├── notebooks/               # Jupyter notebooks for exploratory analysis
 ├── requirements.txt         # Dependencies
 └── README.md
