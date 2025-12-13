@@ -20,11 +20,10 @@ The system performs automated data ingestion, pre-processing (speckle filtering)
 
 ## 🛠️ Tech Stack
 * **Core Logic:** Python, NumPy
-* **Computer Vision:** OpenCV (cv2)
-* **Geospatial Processing:** Rasterio, GeoPandas (for shapefile/AOI handling)
-* **Data Access:** SentinelSat / PySTAC Client
+* **Geospatial Processing:** Rasterio, GeoPandas (for shapefile/AOI handling),opencv
+* **Data Access:** SentinelSat / ASF Data_Search
 * **Visualization:** Matplotlib
-* **Reporting:** FPDF
+
 
 ## 📂 Project Structure
 ```bash
