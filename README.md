@@ -1,5 +1,5 @@
 # Change-Detection-Task-Galaxeye-
-This repository demonstrate my geospatial analytical skills such as API based data download, geospatial analysis and chnage detection
+This repository demonstrate my geospatial analytical skills such as API based data download, geospatial analysis and change detection
 # 🌊 Automated Flood Inundation Mapping (SAR + Optical Fusion)
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
