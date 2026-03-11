@@ -1,4 +1,4 @@
-# Change-Detection-Task-Galaxeye-
+# Environmental Change-Detection-Workflow-
 This repository demonstrate my geospatial analytical skills such as API based data download, geospatial analysis and change detection
 # 🌊 Automated Flood Inundation Mapping (SAR + Optical Fusion)
 
